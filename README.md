@@ -1,1 +1,1 @@
-Aquí se incluyen la memoria y presentación, así como códigos, imágenes, bibliografía y .txt, utilizados a lo largo de la elaboración del TFG
+Se incluye todo el material usado y creado durante la elaboración del TFG, **Inteligencia Artificial para aprender Hamiltonionanos cuánticos**, elaborado por *Samuel Blasco Osés* y dirigido por *David Zueco Láinez*.
