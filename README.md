@@ -2,4 +2,4 @@
 
 Se incluye todo el material usado y creado durante la elaboración del TFG, elaborado por *Samuel Blasco Osés* y dirigido por *David Zueco Láinez*.
 
-Además de los códigos definitivos, se incluyen unas pruebas previas hechas cuanbdo la fórmula que se proporcionó era incorrecta en un signo, pero las pruevas sirvieron para aprender algunas cosas.
+En él hay códigos, modelos .keras, imágenes y plots, algún excel con cálculos. También se incluyen la memoria y el ppt con la presentación para la Defensa.
